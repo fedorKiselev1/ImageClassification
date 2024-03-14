@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "furniture recognition", "furniture recognition.csproj", "{55C0E49B-075E-419C-AE39-FD292A972DBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "couch or chair", "..\couch or chair\couch or chair.csproj", "{E97CB228-33BF-408D-9064-76B267F94F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recognition window", "..\recognition window\recognition window.csproj", "{C9607BFE-B10A-4BED-BB21-F40F09BCDAA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C0E49B-075E-419C-AE39-FD292A972DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C0E49B-075E-419C-AE39-FD292A972DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C0E49B-075E-419C-AE39-FD292A972DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C0E49B-075E-419C-AE39-FD292A972DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97CB228-33BF-408D-9064-76B267F94F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97CB228-33BF-408D-9064-76B267F94F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97CB228-33BF-408D-9064-76B267F94F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97CB228-33BF-408D-9064-76B267F94F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9607BFE-B10A-4BED-BB21-F40F09BCDAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9607BFE-B10A-4BED-BB21-F40F09BCDAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9607BFE-B10A-4BED-BB21-F40F09BCDAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9607BFE-B10A-4BED-BB21-F40F09BCDAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C21C346-2542-42A7-A343-E1E43B6E1CC5}
+	EndGlobalSection
+EndGlobal
